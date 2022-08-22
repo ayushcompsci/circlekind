@@ -18,11 +18,6 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <Container className='h-screen w-full'>
-        <Button variant='solid' color='gray' href="#" className={undefined}>Download</Button>
-        <Button variant='empty' color='gray' href="#" className={undefined}>Log in</Button>
-      </Container>
-
     </>
   )
 }
